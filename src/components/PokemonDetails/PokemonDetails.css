@@ -19,7 +19,7 @@
     border:1px solid gainsboro; 
     border-radius: 15px;
     padding: 1rem;
-    background-color: gainsboro;
+    background-color: rgb(24, 204, 192);
 }
 
 .pokemon-details-image{
